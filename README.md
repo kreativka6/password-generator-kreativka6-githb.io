@@ -1,1 +1,3 @@
-# password-generator-kreativka6-githb.io
+# password-generator-kreativka6-github.io
+
+inspired by @codewithrandom
